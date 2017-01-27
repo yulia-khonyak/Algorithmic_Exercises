@@ -1,0 +1,5 @@
+C:\Workspaces\vITGrid\GitHub_Yulia\AlgorithmicExercises\BinaryGap\bin\Debug\BinaryGap.dll
+C:\Workspaces\vITGrid\GitHub_Yulia\AlgorithmicExercises\BinaryGap\bin\Debug\BinaryGap.pdb
+C:\Workspaces\vITGrid\GitHub_Yulia\AlgorithmicExercises\BinaryGap\obj\Debug\BinaryGap.csprojResolveAssemblyReference.cache
+C:\Workspaces\vITGrid\GitHub_Yulia\AlgorithmicExercises\BinaryGap\obj\Debug\BinaryGap.dll
+C:\Workspaces\vITGrid\GitHub_Yulia\AlgorithmicExercises\BinaryGap\obj\Debug\BinaryGap.pdb

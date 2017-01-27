@@ -1,0 +1,9 @@
+C:\Workspaces\vITGrid\GitHub_Yulia\AlgorithmicExercises\UnitTestBinaryGap\bin\Debug\UnitTestBinaryGap.dll
+C:\Workspaces\vITGrid\GitHub_Yulia\AlgorithmicExercises\UnitTestBinaryGap\bin\Debug\UnitTestBinaryGap.pdb
+C:\Workspaces\vITGrid\GitHub_Yulia\AlgorithmicExercises\UnitTestBinaryGap\bin\Debug\BinaryGap.dll
+C:\Workspaces\vITGrid\GitHub_Yulia\AlgorithmicExercises\UnitTestBinaryGap\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Workspaces\vITGrid\GitHub_Yulia\AlgorithmicExercises\UnitTestBinaryGap\bin\Debug\BinaryGap.pdb
+C:\Workspaces\vITGrid\GitHub_Yulia\AlgorithmicExercises\UnitTestBinaryGap\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Workspaces\vITGrid\GitHub_Yulia\AlgorithmicExercises\UnitTestBinaryGap\obj\Debug\UnitTestBinaryGap.csprojResolveAssemblyReference.cache
+C:\Workspaces\vITGrid\GitHub_Yulia\AlgorithmicExercises\UnitTestBinaryGap\obj\Debug\UnitTestBinaryGap.dll
+C:\Workspaces\vITGrid\GitHub_Yulia\AlgorithmicExercises\UnitTestBinaryGap\obj\Debug\UnitTestBinaryGap.pdb
